@@ -27,8 +27,11 @@ We used the following AI tools to enhance efficiency, improve workflow, and opti
 
 ## **🔍 Why We Used AI**
 We leveraged AI tools to **increase efficiency**and **enhance comparison accuracy** in the following ways:
+
 ✅ **Faster Research**
+
 ✅ **Optimized Workflow** 
+
 ✅ **Improved Code Quality** 
 
 ---
